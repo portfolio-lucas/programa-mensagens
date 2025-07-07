@@ -11,7 +11,7 @@ Foi desenvolvido com as tecnologias:
 > JS
 > ---
 
-Link do projeto: https://lucasfelipedonascimento.github.io/programa-mensagens/
+Link do projeto: https://programa-mensagens.vercel.app/
 
 
 
